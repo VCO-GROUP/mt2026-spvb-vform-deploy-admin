@@ -1,10 +1,11 @@
 {
   "company_name": "Suntory Pepsico",
-  "project_title": "Management Trainee 2025",
+  "project_title": "Management Trainee 2026",
   "meta_description": "Suntory Pepsico Campaign",
   "app_name": "spvb_mt_vform",
   "short_name": "vform",
   "gtm_id": "GTM-TM7MHG33",
   "theme_color": "#0175C2",
-  "background_color": "#0175C2"
+  "background_color": "#0175C2",
+  "base_href": "/mt-2026-management-trainee/"
 }
